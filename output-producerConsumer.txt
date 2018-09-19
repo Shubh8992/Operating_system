@@ -1,0 +1,35 @@
+run:
+1.producer 2.consumer 3.exit
+2
+consumer waiting
+1.producer 2.consumer 3.exit
+1
+produced item
+1.producer 2.consumer 3.exit
+2
+consumed item
+1.producer 2.consumer 3.exit
+1
+produced item
+1.producer 2.consumer 3.exit
+1
+produced item
+1.producer 2.consumer 3.exit
+1
+consumed item
+1.producer 2.consumer 3.exit
+2
+consumed item
+1.producer 2.consumer 3.exit
+2
+consumer waiting
+1.producer 2.consumer 3.exit
+2
+consumer waiting
+1.producer 2.consumer 3.exit
+1
+produced item
+1.producer 2.consumer 3.exit
+2
+consumed item
+1.producer 2.consumer 3.exit

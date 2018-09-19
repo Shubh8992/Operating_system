@@ -1,0 +1,15 @@
+Enter number of processes: 5
+Burst time of 1 process: 4
+Burst time of 2 process: 2
+Burst time of 3 process: 3
+Burst time of 4 process: 1
+Burst time of 5 process: 5
+
+        Process            BT            Waiting time    turn around time
+Process   1                4              0                      4
+Process   2                2              4                      6
+Process   3                3              6                      9
+Process   4                1              9                     10
+Process   5                5              10                   15
+Average waiting time : 3
+Average TAT :8.8
