@@ -1,0 +1,4 @@
+Process 0 has been allocated all required resources
+Process 1 has been allocated all required resources
+Process 2 has been allocated all required resources
+Safe State
