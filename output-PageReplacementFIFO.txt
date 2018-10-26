@@ -1,0 +1,19 @@
+enter no of pages
+5
+enter no of page fraame
+4
+enter page entries
+2
+3
+4
+5
+2
+                                 PageFrames
+page entry 2             2        0        0        0     
+page entry 3             2        3        0        0     
+page entry 4             2        3        4        0     
+page entry 5             2        3        4        5     
+page entry 2             2        3        4        5     
+hit =1
+fault =4
+BUILD SUCCESSFUL (total time: 9 seconds)
