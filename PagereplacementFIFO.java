@@ -16,7 +16,7 @@ public class PagereplacementFIFO {
          System.out.println("enter no of page fraame");
           pgf=sc.nextInt();
          int pg[]=new int[np];
-         System.out.println("enter values");
+         System.out.println("enter Page entries");
          for(i=0;i<np;i++)
          {
             pg[i]=sc.nextInt();
