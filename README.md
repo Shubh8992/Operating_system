@@ -13,3 +13,6 @@ This repository contains all my Operating System Lab assignments that I have com
 * Producer Consumer Problem 
 * Producer Consumer Problem using Threads
 * Bankers ALgorithm
+* pagerepalcement USing FIFO in java
+* pagerepalcement USing LRU in java
+* Disk Scheduling Algorithm code using java(SSTF)
