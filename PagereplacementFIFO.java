@@ -41,7 +41,7 @@ public class PagereplacementFIFO {
                  }
              }
          
-         System.out.println("hit"+hit);
-         System.out.println("fault"+fault);
+         System.out.println("hit="+hit);
+         System.out.println("fault="+fault);
 }
 }
